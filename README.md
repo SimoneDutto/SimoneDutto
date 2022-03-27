@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simone Dutto<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a computer enginner from Italy.</h3>
+<h3 font-size="20" align="center">A passionate backend developer and a computer engineer from Italy.</h3>
 
 
 - 🌱 I’m currently learning to build Security Oriented Applications, interested in Web3.0 but did not start yet.
