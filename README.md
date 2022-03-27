@@ -2,7 +2,9 @@
 <h3 font-size="20" align="center">A passionate backend developer and a computer engineer from Italy.</h3>
 
 
-- 🌱 I’m currently learning to build Security Oriented Applications, interested in Web3.0 but did not start yet.
+- 🌱 I’m currently learning to build Security Oriented Applications @Cleafy.
+
+- 💻 Interested in exploring Web3.0, beyond the hype.
 
 - 👯 I'm building [MemeInBusiness](https://memeinbusiness.com), a web-app based on a trading system with memes instead of stocks.
 
