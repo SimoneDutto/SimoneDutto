@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to build Security Oriented Applications, interested in Web3.0 but did not start yet.
 
-- 👯 I'm building [MemeInBusiness](memeinbusiness.com), a web-app based on a trading system with memes instead of stocks.
+- 👯 I'm building [MemeInBusiness](https://memeinbusiness.com), a web-app based on a trading system with memes instead of stocks.
 
 - 👨‍💻 All of my projects are available [@SimoneDutto](github.com/SimoneDutto)
 
