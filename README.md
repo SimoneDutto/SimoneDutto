@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to build Security Oriented Applications @Cleafy.
 
-- 💻 Interested in master Software Engineering adn CyberSecurity.
+- 💻 Interested in mastering Software Engineering adn CyberSecurity.
 
 - 👯 I'm building [MemeInBusiness](https://memeinbusiness.com), a web-app based on a trading system with memes instead of stocks.
 
