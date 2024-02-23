@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Simone Dutto<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate R&D Software Developer from Italy.</h3>
 
-
-- 🌱 I’m currently learning to build Security Oriented Applications @Cleafy.
-
-- 💻 Interested in mastering Software Engineering and CyberSecurity.
-
-- 👯 I'm building [MemeInBusiness](https://memeinbusiness.com), a web-app based on a trading system with memes instead of stocks.
-
 - 👨‍💻 All of my projects are available [@SimoneDutto](github.com/SimoneDutto)
 
 - 💬 Ask me about **System Designs and Politics 😆**
